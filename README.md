@@ -15,6 +15,10 @@
 - 👯 I’m looking to collaborate on **Docker, Jenkins & Containers**  
 - 💬 Ask me about **Linux, AWS, Containers**  
 - 📫 Reach me at **shahirbilagi43@gmail.com**  
+---
+
+### ⚡ **Fun Fact**
+💡 _"I automate everything I can – from deployment to coffee brewing!"_ ☕🚀
 
 ---
 
@@ -66,7 +70,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shahirbilagi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
 
-### ⚡ **Fun Fact**
-💡 _"I automate everything I can – from deployment to coffee brewing!"_ ☕🚀
