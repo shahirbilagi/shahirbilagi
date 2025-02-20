@@ -15,6 +15,7 @@
 - 👯 I’m looking to collaborate on **Docker, Jenkins & Containers**  
 - 💬 Ask me about **Linux, AWS, Containers**  
 - 📫 Reach me at **shahirbilagi43@gmail.com**  
+
 ---
 
 ### ⚡ **Fun Fact**
@@ -65,9 +66,14 @@
 ---
 
 ### 📊 **GitHub Stats**
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahirbilagi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahirbilagi&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahirbilagi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahirbilagi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
