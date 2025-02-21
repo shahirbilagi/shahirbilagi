@@ -12,8 +12,8 @@
 
 - 🔭 I’m currently working on **Software Testing**  
 - 🌱 I’m currently learning **Selenium with Java**  
-- 👯 I’m looking to collaborate on **Docker, Jenkins & Containers**  
-- 💬 Ask me about **Linux, AWS, Containers**  
+- 👯 I’m looking to collaborate on **Docker, Jenkins & k8**  
+- 💬 Ask me about **Linux, AWS, Containerization**  
 - 📫 Reach me at **shahirbilagi43@gmail.com**  
 
 ---
