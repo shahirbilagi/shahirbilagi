@@ -56,19 +56,19 @@
 
 ### 🔹 DevOps & Cloud  
 <p>
-  <img src="https://img.shields.io/badge/AWS-Cloud-yellow?style=for-the-badge&logo=amazonaws" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Linux-OS-black?style=for-the-badge&logo=linux" alt="Linux"/>
+  <img src="https://img.shields.io/badge/AWS-yellow?style=for-the-badge&logo=amazonaws" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" alt="Linux"/>
 </p>
 
 ### 🔹 Testing & Automation  
 <p>
-  <img src="https://img.shields.io/badge/Selenium-Testing-green?style=for-the-badge&logo=selenium" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Postman-API-orange?style=for-the-badge&logo=postman" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Newman-CLI-orange?style=for-the-badge&logo=postman" alt="Newman"/>
-  <img src="https://img.shields.io/badge/JMeter-Performance-red?style=for-the-badge&logo=apache" alt="JMeter"/>
+  <img src="https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Newman-orange?style=for-the-badge&logo=postman" alt="Newman"/>
+  <img src="https://img.shields.io/badge/JMeter-red?style=for-the-badge&logo=apache" alt="JMeter"/>
 </p>
 
 ---
