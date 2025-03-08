@@ -69,6 +69,7 @@
   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman" alt="Postman"/>
   <img src="https://img.shields.io/badge/Newman-orange?style=for-the-badge&logo=postman" alt="Newman"/>
   <img src="https://img.shields.io/badge/JMeter-red?style=for-the-badge&logo=apache" alt="JMeter"/>
+  <img src="https://img.shields.io/badge/REST%20Assured-blue?style=for-the-badge&logo=java&logoColor=white" alt="REST Assured"/>
 </p>
 
 ---
