@@ -10,7 +10,7 @@
 
 ## 🚀 **About Me**  
 
-- 🔭 I’m currently working on **Software Testing**  
+- 🔭 I’m currently working on **Azure DevOps**  
 - 🌱 I’m currently learning **Selenium with Java & DevOps Tools**  
 - 👯 I’m looking to collaborate on **Docker, Jenkins & Kubernetes**  
 - 💬 Ask me about **Linux, AWS, Containerization, and Test Automation**  
